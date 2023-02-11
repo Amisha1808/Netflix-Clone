@@ -47,7 +47,7 @@ Netflix clone made with advanced react, redux & netlify which uses redux thunk t
 Contributions are welcome! If you see any bugs or have any feature requests, please open an issue or submit a pull request.
 
 ## Author
-Amisha Saxena
+[Amisha Saxena](https://www.linkedin.com/in/amisha-saxena-9a9968231/)
 
 ## License
 Full credit for API data to TMDB API.
