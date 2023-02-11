@@ -15,14 +15,10 @@ User reviews and ratings.
 Front-end: React, Redux, React-Router,
 Back-end: Node.js, Express,
 Database: TMDB API- Movie service API,
-React-
-Create-react-app with highly complex frontend structure
-Redux-
-State management and redux thunk for asynchronous api calls
-React Router-
-Complex and dynamic route generation
-React Reveal-
-For fade animation effect
+React- Create-react-app with highly complex frontend structure
+Redux- State management and redux thunk for asynchronous api calls
+React Router- Complex and dynamic route generation
+React Reveal- For fade animation effect
 
 #Contributing
 
