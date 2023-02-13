@@ -21,7 +21,7 @@ This is a Netflix clone website built using HTML, CSS, JavaScript, and React. It
 * React Reveal- For fade animation effect<br>
 
 ## Demo
-[Website](https://netflixclonebyamisha.netlify.app/)
+[Website](https://netflix-clone-by-amisha.netlify.app)
 
 ## Implementation Highlights
 Netflix clone made with advanced react, redux & netlify which uses redux thunk to asynchronously fetch movie data of over 30 thousand movies from Tmdb api. Features include a multi-active searchbar, user signup and signin, add to list option for each user, trailer links, imdb ratings, cast and summary dynamically generated movie and tv show pages and an interactive UI replicated from the original netflix app.
